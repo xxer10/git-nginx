@@ -1,2 +1,1 @@
-echo Hello World
-echo Modified
+echo Hello World testing sync
